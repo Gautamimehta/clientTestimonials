@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/clientTestimonials/static/css/main.14e16d00.chunk.css",
+    "main.js": "/clientTestimonials/static/js/main.d02ff240.chunk.js",
+    "main.js.map": "/clientTestimonials/static/js/main.d02ff240.chunk.js.map",
+    "runtime-main.js": "/clientTestimonials/static/js/runtime-main.224fd40f.js",
+    "runtime-main.js.map": "/clientTestimonials/static/js/runtime-main.224fd40f.js.map",
+    "static/css/2.14d0d41c.chunk.css": "/clientTestimonials/static/css/2.14d0d41c.chunk.css",
+    "static/js/2.977c7d06.chunk.js": "/clientTestimonials/static/js/2.977c7d06.chunk.js",
+    "static/js/2.977c7d06.chunk.js.map": "/clientTestimonials/static/js/2.977c7d06.chunk.js.map",
+    "static/js/3.357b0308.chunk.js": "/clientTestimonials/static/js/3.357b0308.chunk.js",
+    "static/js/3.357b0308.chunk.js.map": "/clientTestimonials/static/js/3.357b0308.chunk.js.map",
+    "index.html": "/clientTestimonials/index.html",
+    "static/css/2.14d0d41c.chunk.css.map": "/clientTestimonials/static/css/2.14d0d41c.chunk.css.map",
+    "static/css/main.14e16d00.chunk.css.map": "/clientTestimonials/static/css/main.14e16d00.chunk.css.map",
+    "static/js/2.977c7d06.chunk.js.LICENSE.txt": "/clientTestimonials/static/js/2.977c7d06.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/clientTestimonials/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.224fd40f.js",
+    "static/css/2.14d0d41c.chunk.css",
+    "static/js/2.977c7d06.chunk.js",
+    "static/css/main.14e16d00.chunk.css",
+    "static/js/main.d02ff240.chunk.js"
+  ]
+}
